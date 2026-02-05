@@ -51,7 +51,7 @@ const PlatformSection = () => {
               {/* Central SOC Display */}
               <div className="text-center mb-8">
                 <div className="inline-block">
-                  <div className="text-sm text-primary mb-2 font-medium">TRIDENT</div>
+                  
                   <div className="font-display text-2xl font-bold text-foreground mb-1">
                     ON-PREMISE / CLOUD
                   </div>

@@ -30,7 +30,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center gap-2 mb-6">
               <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center overflow-hidden">
-                  <img src="/public/logo.png" />
+                  <img src="/logo.png" />
                 </div>
               <span className="font-display font-bold text-xl text-foreground">
                  Su Indra<span className="text-primary"> Groups Pvt. Ltd.</span>

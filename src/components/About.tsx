@@ -47,10 +47,7 @@ const About = () => {
               About Us
             </h4>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              We are a leading provider of Security Operations Center (SOC)
-              services, specializing in advanced cybersecurity solutions. Our
-              team of experts works tirelessly to protect organizations from
-              evolving digital threats.
+              Contributing to the development of secure digital solutions with a focus on ecommerce platforms and cybersecurity practices, while supporting collaborative, project-based initiatives with partner organizations.
             </p>
             <h4 className="font-display text-2xl font-bold text-foreground mb-6">
               Our Mission

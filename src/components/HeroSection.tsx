@@ -37,7 +37,7 @@ const HeroSection = () => {
             </div>
 
             {/* Trust badges */}
-            <div className="flex flex-wrap gap-6 justify-center lg:justify-start mt-10 animate-fade-up" style={{ animationDelay: "0.4s" }}>
+            {/* <div className="flex flex-wrap gap-6 justify-center lg:justify-start mt-10 animate-fade-up" style={{ animationDelay: "0.4s" }}>
               <div className="flex items-center gap-2 text-muted-foreground">
                 <Shield className="w-5 h-5 text-primary" />
                 <span className="text-sm">SOC 2 Certified</span>
@@ -50,7 +50,7 @@ const HeroSection = () => {
                 <Eye className="w-5 h-5 text-primary" />
                 <span className="text-sm">GDPR Compliant</span>
               </div>
-            </div>
+            </div> */}
           </div>
 
           {/* Right Content - Shield Illustration */}

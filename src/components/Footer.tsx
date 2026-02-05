@@ -102,7 +102,7 @@ const Footer = () => {
             © 2026 Su Indra Groups Pvt. Ltd. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
-            <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+            <a href="https://www.linkedin.com/company/111845936/" className="text-muted-foreground hover:text-primary transition-colors">
               <Linkedin className="w-5 h-5" />
             </a>
             <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
